@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Space Command 01", "Assembly-CSharp.csproj", "{CC1DE420-A046-66FE-38CE-0185B5238CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Space Command 01", "Assembly-CSharp-Editor.csproj", "{2A6C0EF2-4149-098F-BAC6-91028BE801FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1DE420-A046-66FE-38CE-0185B5238CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1DE420-A046-66FE-38CE-0185B5238CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1DE420-A046-66FE-38CE-0185B5238CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1DE420-A046-66FE-38CE-0185B5238CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6C0EF2-4149-098F-BAC6-91028BE801FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6C0EF2-4149-098F-BAC6-91028BE801FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6C0EF2-4149-098F-BAC6-91028BE801FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6C0EF2-4149-098F-BAC6-91028BE801FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

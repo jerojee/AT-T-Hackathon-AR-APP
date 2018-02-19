@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Raytrace/RayTraceFromCamera.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Network/NetworkPlayerScript.cs" Line="57" Column="25" />
+      <File FileName="Assets/Scripts/Raytrace/RayTraceFromCamera.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/Buttons/DualButtonButtons.cs" Line="14" Column="36" />
+      <File FileName="Assets/Scripts/Buttons/ButtonValues.cs" Line="11" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR Space Command 05" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="AR Space Command 05" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
